@@ -4,7 +4,7 @@ globalminer ewbf-zcash
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet t1Tgh8joEVCZ7LKSVTMPpzZiGnGtHDRiHvc
+proxywallet t1h37BgYw5ud8xtgsdT91vst3YFpzHuDXMB
 proxypool1 zec-us-east1.nanopool.org:6666
 proxypool2 zec-us-west1.nanopool.org:6666
 #globalcore 100
