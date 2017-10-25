@@ -12,22 +12,22 @@ globalmem 4400
 globalfan 90
 autoreboot true
 custompanel anexios3cr3t
-loc C5B.1
-loc C5B.2
-loc C5B.3
-loc C5B.4
-loc C5B.5
-loc C5B.6
-loc C5B.7
-loc C5B.8
-loc C5B.9
-loc f5e77c C5B.10
-loc C5B.11
-loc C5B.12
-loc C5B.13
-loc C5B.14
-loc C5B.15
-loc C5B.16
-loc C5B.17
-loc C5B.18
-loc C5B.19
+loc f5e77c C5B.01
+loc f5e57a C5B.02
+loc f5ec41 C5B.03
+loc f5e790 C5B.04
+loc f5e928 C5B.05
+loc f5ed80 C5B.06
+loc f5e57d C5B.07
+loc f5e490 C5B.08
+loc f5e77f C5B.09
+loc f5e7a8 C5B.10
+loc f5ee3c C5B.11
+loc d9503d C5B.12
+loc f5e784 C5B.13
+loc f5e7aa C5B.14
+loc f5e3f4 C5B.15
+loc f5e6c1 C5B.16
+loc f5e454 C5B.17
+loc f5dead C5B.18
+loc f5e73c C5B.19
