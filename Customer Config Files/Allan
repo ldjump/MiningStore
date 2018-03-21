@@ -8,7 +8,7 @@ proxywallet 0xF25fAe6D5b099e54f458209234e132901Fc0865c
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 #globalcore 1300
-globalmem 2085
+globalmem 2050
 globalfan 90
 autoreboot true
 globaldriver amdgpu
