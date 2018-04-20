@@ -9,7 +9,7 @@ proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 #globalcore 1400
 #globalmem 4690
-glboalmem 4550
+glboalmem 4600
 globalfan 70
 globalpowertune 130
 autoreboot true
