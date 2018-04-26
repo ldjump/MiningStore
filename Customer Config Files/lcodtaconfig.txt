@@ -1,0 +1,23 @@
+                                                                                                                                                                                                              
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0xd2D24df1b0b35C5cc00d53415fcE9a3b00637926
+proxypool1 eth-us-east1.nanopool.org:9999
+proxypool2 eth-us-west1.nanopool.org:9999
+poolemail support@miningstore.com
+#globalcore 1200
+globalmem 2085
+globalfan 100
+globalpowertune 2
+autoreboot true
+globaldriver amdgpu
+custompanel lcodta123456
+loc c78dc9 Kyle01
+loc d9546e Kyle02
+loc d9562c kyle03
+loc d9576a kyle04
+loc d95496 kyle05                        
