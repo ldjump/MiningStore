@@ -1,0 +1,17 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0xC40c4BEaa82a4F76D47Ee7CB4430DecaA7ba5bF2
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001
+#globalcore 1300
+globalmem 2000
+globalfan 90
+autoreboot true
+globaldriver amdgpu
+custompanel bbbf18mining
+loc c46b7c RDU001
+name c4b7c dara001
