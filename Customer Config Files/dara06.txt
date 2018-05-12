@@ -12,7 +12,7 @@ globalmem 1930
 globalfan 100
 autoreboot true
 globaldriver amdgpu
-claymore flags -gser 2 -mode 1 -lidag 2
+claymore flags -gser 2 -mode 1 -lidag 2 -minspeed 200
 poolemail support@miningstore.com
 custompanel bbbf18mining
 loc c46b7c dara01
