@@ -13,7 +13,7 @@ poolemail support@miningstore.com
 #globalmem 2000
 globalfan 95
 #globalpowertune 12
-autoreboot true
+#autoreboot true
 globaldriver amdgpu
 custompanel hammer123456
 loc 6e6659 hammer01
