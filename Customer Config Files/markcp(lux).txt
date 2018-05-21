@@ -15,4 +15,4 @@ globalfan 90
 #globalpowertune 12
 autoreboot true
 globaldriver amdgpu
-custompanel mark18123456
+custompanel markcp123456
