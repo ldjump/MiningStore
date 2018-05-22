@@ -16,3 +16,4 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel sally1123456
+loc c46d4e sally1
