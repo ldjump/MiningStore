@@ -1,10 +1,11 @@
+globalminer ewbf-zcash
 #globalminer zcash-miner
-globalminer claymore
+#globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0x884cB2C14dC64beDe2B5cd9a59d12DB92609b4e0
+proxywallet t1SuxceacpD3YR5pjJPHn926piybaYRzHvv
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
 #globalcore 1400
