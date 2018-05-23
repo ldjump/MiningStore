@@ -16,4 +16,5 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel 
+claymore=flags -gser 2 -mode 1 -minspeed 190 -lidag 2
 loc
