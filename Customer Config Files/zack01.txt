@@ -9,7 +9,7 @@ proxywallet t1SuxceacpD3YR5pjJPHn926piybaYRzHvv
 proxypool1 zec-us-east1.nanopool.org:6666
 proxypool2 zec-us-west1.nanopool.org:6666
 #globalcore 1400
-globalmem 4500
+globalmem 4400
 globalfan 95
 globalpowertune 130
 autoreboot true
