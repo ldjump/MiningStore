@@ -1,0 +1,17 @@
+globalminer ewbf-zcash
+#globalminer zcash-miner
+#globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet t1ebPyrDn5qgTTtJ8yebW1YHbm8vakgWjgr
+proxypool1 zec-us-east1.nanopool.org:6666
+proxypool2 zec-us-west1.nanopool.org:6666
+#globalcore 1500
+globalmem 2050
+globalfan 90
+#globalpowertune 12
+autoreboot true
+globaldriver amdgpu
+custom panel Kings1234567
