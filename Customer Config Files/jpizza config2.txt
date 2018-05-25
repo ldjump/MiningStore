@@ -16,4 +16,4 @@ globalfan 95
 autoreboot true
 globaldriver amdgpu
 custompanel jpizza123456
-loc [6e6cfc] Jpizza01
+loc 6e6cfc Jpizza01
