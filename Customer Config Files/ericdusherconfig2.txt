@@ -16,3 +16,4 @@ autoreboot true
 globaldriver amdgpu
 claymore flags -gser 2 -mode 1 -minspeed 190 -lidag 2
 custompanel Eric18123456
+loc c46b16 eric01
