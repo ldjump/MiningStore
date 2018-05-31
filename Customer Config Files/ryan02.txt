@@ -5,7 +5,7 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0x5D9D6b648d4FF8Db3Dc4362db9f8540D4cBd2a19
+proxywallet 0x61C6f010C3351057A534f3A05ed95C5e9F6EDe85
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 #globalcore 1500
