@@ -13,7 +13,7 @@ poolemail support@miningstore.com
 globalmem 5200
 globalfan 100
 #globalpowertune 12
-autoreboot true
+autoreboot 5
 globaldriver amdgpu
 custompanel bbbf18mining
 loc c46b7c dara01
