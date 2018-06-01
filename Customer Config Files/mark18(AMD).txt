@@ -13,6 +13,6 @@ proxypool2 pool-eu.ethosdistro.com:5001
 globalmem 2085
 globalfan 90
 #globalpowertune 12
-autoreboot true
+autoreboot 9
 globaldriver amdgpu
 custompanel markcp123456
