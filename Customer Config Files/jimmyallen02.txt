@@ -14,3 +14,4 @@ globalfan 95
 autoreboot true
 globaldriver amdgpu
 custompanel jdajda12eliz
+loc c39fb7 jimmy1
