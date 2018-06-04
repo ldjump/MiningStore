@@ -16,3 +16,11 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel markcp123456
+loc 6e65a7 mark01
+loc c39e0b mark02
+loc c39e19 mark03
+loc c39f01 mark04
+loc c39fab mark05
+loc c44e8e mark06
+loc c46bb8 mark07
+loc d9504f mark08
