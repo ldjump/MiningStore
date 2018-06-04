@@ -1,0 +1,20 @@
+#globalminer ewbf-zcash
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0xCF33c07570E74598fB0074A3a7e5E3Ac1926f132
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001 
+poolemail support@miningstore.com
+#globalcore 
+#globalmem 
+globalfan 90
+#globalpowertune 12
+autoreboot true
+globaldriver amdgpu
+custompanel 
+claymore=flags -gser 2 -mode 1 -minspeed 190 -lidag 2
+loc
