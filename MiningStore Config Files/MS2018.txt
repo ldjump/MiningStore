@@ -15,3 +15,4 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel ms2018123456
+loc c3a04e MS001
