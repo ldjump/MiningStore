@@ -11,7 +11,7 @@ poolemail support@miningstore.com
 #globalcore 
 #globalmem 1750
 globalfan 90
-globalpowertune 3
+#globalpowertune 3
 autoreboot true
 globaldriver amdgpu
 custompanel ms2018123456
