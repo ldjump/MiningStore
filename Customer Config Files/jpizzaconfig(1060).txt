@@ -13,7 +13,7 @@ proxypool2 zec-us-west1.nanopool.org:6666
 globalmem 4000
 globalfan 95
 #globalpowertune 12
-autoreboot true
+autoreboot 5
 globaldriver amdgpu
 custompanel jpizza123456
 loc c39fb9 jpizza02
