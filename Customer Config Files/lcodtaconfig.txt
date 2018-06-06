@@ -12,10 +12,11 @@ poolemail support@miningstore.com
 #globalcore 1200
 globalmem 2085
 globalfan 100
-globalpowertune 2
-autoreboot true
+#globalpowertune 2
+autoreboot 5
 globaldriver amdgpu
 custompanel lcodta123456
+claymore=flags -gser 2 -mode 1 -minspeed 190 -lidag 2
 loc c78dc9 Kyle01
 loc d9546e Kyle02
 loc d9562c kyle03
