@@ -10,7 +10,7 @@ proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
 poolemail support@miningstore.com
 #globalcore 1200
-globalmem 2085
+globalmem 2000
 globalfan 100
 #globalpowertune 2
 autoreboot 5
