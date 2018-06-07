@@ -13,7 +13,8 @@ proxypool2 eth-us-west1.nanopool.org:9999
 globalmem 1950
 globalfan 95
 #globalpowertune 12
-autoreboot true
+autoreboot 9
 globaldriver amdgpu
 custompanel jpizza123456
 loc 6e6cfc Jpizza01
+claymore=flags -gser 2 -mode 1 -lidag 2
