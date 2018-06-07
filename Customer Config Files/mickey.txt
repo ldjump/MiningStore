@@ -13,7 +13,7 @@ poolemail support@miningstore.com
 globalmem 2000 
 globalfan 90
 #globalpowertune 12
-autoreboot true
+autoreboot 9
 globaldriver amdgpu
 custompanel Mickey123456
 claymore=flags -gser 2 -mode 1 -lidag 2
