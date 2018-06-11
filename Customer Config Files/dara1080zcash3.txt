@@ -17,7 +17,7 @@ autoreboot 5
 globaldriver amdgpu
 custompanel bbbf18mining
 loc c46b7c dara01
-loc c46bbf d10801
+loc 242e06 d10801
 loc c46b3a d10802
 loc 242f95 dara02
 loc c46b9f dara03
