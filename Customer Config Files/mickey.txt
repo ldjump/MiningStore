@@ -16,5 +16,5 @@ globalfan 90
 autoreboot 9
 globaldriver amdgpu
 custompanel Mickey123456
-claymore=flags -gser 2 -mode 1 -lidag 2 -wd 1 -nofee -r 20
+claymore=flags -gser 2 -mode 1 -asm 1 -dcri 30 -lidag 2 -wd 1 -nofee -r 20
 loc c39f36 mickey01
