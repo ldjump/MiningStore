@@ -8,7 +8,6 @@ stratumproxy enabled
 proxywallet 0x5c97384ae16a83272510dd98d668c570f6d07aca
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001 
-poolemail support@miningstore.com
 #globalcore 
 globalmem 2085
 globalfan 90
