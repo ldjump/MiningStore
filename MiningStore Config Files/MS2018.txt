@@ -16,3 +16,6 @@ autoreboot true
 globaldriver amdgpu
 custompanel ms2018123456
 loc c3a04e MS001
+loc c39dff MS002
+loc c39e42 MS003
+loc c39fcd MS004
