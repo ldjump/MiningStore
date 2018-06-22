@@ -9,12 +9,12 @@ proxywallet 0xD2F0578e5820D0b99d8410C45E48076c891275Db
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001 
 poolemail support@miningstore.com
-#globalcore 
-globalmem 2050
+globalcore 1180
+mem c46d4e 2025 2025 2025 2025 2025 2025 2025 2025
 globalfan 90
 #globalpowertune 12
 autoreboot true
 globaldriver amdgpu
-claymore=flags -gser 2 -mode 1 -lidag 2 -wd 1 -r 20
+claymore=flags -gser 2 -mode 1 -lidag 2 
 custompanel sally1123456
 loc c46d4e sally01
