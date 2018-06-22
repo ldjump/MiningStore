@@ -18,4 +18,4 @@ globaldriver amdgpu
 custompanel connor123456
 loc 6e6d02 connor01
 loc 6e6d78 connor02
-loc 6e6766 connor03
+loc c39bc2 connor03
