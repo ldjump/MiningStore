@@ -18,3 +18,4 @@ autoreboot 5
 globaldriver amdgpu
 custompanel ericwo123456
 claymore=flags -gser 2 -mode 1 -lidag 2
+loc c81d28 ericwo1
