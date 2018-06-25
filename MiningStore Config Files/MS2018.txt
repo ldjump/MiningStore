@@ -17,3 +17,5 @@ globaldriver amdgpu
 custompanel ms2018123456
 loc c39fcd MS005
 loc 6e668d MSHill
+loc c39ec0 MS004
+loc
