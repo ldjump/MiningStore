@@ -1,0 +1,28 @@
+#globalminer zcash-miner
+globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+maxgputemp 95
+stratumproxy enabled
+proxywallet 0xC40c4BEaa82a4F76D47Ee7CB4430DecaA7ba5bF2
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001
+#globalcore 1300
+globalmem 4600
+globalfan 100
+autoreboot true
+globaldriver amdgpu
+claymore flags -gser 2 -mode 1 -lidag 2 -wd 1 -r 20 
+poolemail support@miningstore.com
+custompanel bbbf18mining
+loc c46b7c dara01
+loc 242e06 d10801
+loc c46b3a d10802
+loc 242f95 dara02
+loc c46b9f dara03
+loc c39ba9 d10803
+loc c39fc9 d10804
+loc c46aaa d10805
+loc c39e7a dara04
+loc c39f97 dara05
+loc c399fb daranode
