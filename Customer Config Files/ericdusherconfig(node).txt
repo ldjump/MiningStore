@@ -15,6 +15,6 @@ globalfan 90
 poolemail support@miningstore.com
 autoreboot true
 globaldriver amdgpu
-claymore=flags -di 01 -gser 2 -mode 1 -lidag 2 
+claymore=flags -gser 2 -mode 1 -lidag 2 
 custompanel Eric18123456
 loc c46b16 eric01
