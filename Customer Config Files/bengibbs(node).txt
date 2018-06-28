@@ -17,3 +17,7 @@ autoreboot true
 globaldriver amdgpu
 custompanel beng18123456
 claymore=flags -gser 2 -mode 1 -lidag 2
+
+
+NODE SETUP
+/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0xCF33c07570E74598fB0074A3a7e5E3Ac1926f132.GibbsNode/mbg1975@hotmail.co.uk -epsw x -di 67 -lidag 2 -mport 3334
