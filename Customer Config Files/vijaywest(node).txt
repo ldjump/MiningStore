@@ -20,4 +20,4 @@ claymore=flags -gser 2 -mode 1 -lidag 2
 
 
 NODE SETUP
-/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x9FdFFC7Dc235d69F34Fbd0e745E25B7F3f8D3ed4.VijayNode/jaquez2020@gmail.com -epsw x -di 67 -lidag 2 -mport 3335
+/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x9FdFFC7Dc235d69F34Fbd0e745E25B7F3f8D3ed4.VijayNode/jaquez2020@gmail.com -epsw x -di 67 -lidag 2 -mport 0
