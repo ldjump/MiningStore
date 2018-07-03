@@ -17,3 +17,5 @@ autoreboot true
 globaldriver amdgpu
 custompanel scottb123456
 claymore=flags -gser 2 -mode 1 -lidag 2
+loc c39fcd scott01
+loc c39c0b scott02
