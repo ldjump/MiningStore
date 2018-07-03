@@ -9,7 +9,7 @@ proxywallet 0x16e531C2aD4e58e1377CAeAdDf578b39FAF2731E
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 #globalcore 1500
-globalmem 4200
+globalmem 4300
 globalfan 90
 #globalpowertune 12
 poolemail support@miningstore.com
@@ -17,4 +17,3 @@ autoreboot true
 globaldriver amdgpu
 claymore=flags -gser 2 -mode 1 -lidag 2 -di 01
 custompanel MSNODE123456
-loc c46b16 eric01
