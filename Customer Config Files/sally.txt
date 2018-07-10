@@ -13,7 +13,7 @@ globalcore 1180
 mem c46d4e 2025 2025 2025 2025 2025 2025 2025 2025
 globalfan 90
 #globalpowertune 12
-autoreboot false
+autoreboot 9
 globaldriver amdgpu
 claymore=flags -gser 2 -mode 1 -lidag 2 
 custompanel sally1123456
