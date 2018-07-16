@@ -10,6 +10,7 @@ proxypool2 pool-eu.ethosdistro.com:5001
 #globalcore 1300
 globalmem 5700
 globalfan 100
+globalpowertune 130
 poolemail support@miningstore.com
 custompanel bbbf18mining
 loc c46b7c dara01
