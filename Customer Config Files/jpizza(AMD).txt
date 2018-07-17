@@ -10,8 +10,8 @@ proxywallet 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B
 poolemail support@miningstore.com
 proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
-#globalcore 1500
-mem 6e6cfc 1950 1950 1950 1950 1950 1950 1950 1950
+globalcore 1100
+mem 6e6cfc 1940 1940 1940 1940 1940 1940 1940 1940
 globalfan 95
 #globalpowertune 12
 autoreboot 9
