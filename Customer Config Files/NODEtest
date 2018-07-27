@@ -14,6 +14,6 @@ globalfan 90
 poolemail support@miningstore.com
 autoreboot true
 globaldriver amdgpu
-claymore=flags -gser 2 -mode 1 -lidag 2 -di 12
+claymore=flags -gser 2 -mode 1 -lidag 2 -di 01
 custompanel ms2018123456
 loc c3a012 MSnode2test
