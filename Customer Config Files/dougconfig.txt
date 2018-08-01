@@ -16,6 +16,6 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel dougnc123456
-loc 6e6b32 doug01
-loc 6e6643 doug02 
+loc 6e6b32 dgh-0001
+loc 6e6643 dgh-0002
                           
