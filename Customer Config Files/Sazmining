@@ -4,7 +4,7 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0x3cB13cD53C28A3109468E0900e683546085E22e
+proxywallet 0x3c3B13cD53C28A3109468E0900e683546085E22e 
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 poolemail support@miningstore.com
@@ -15,4 +15,17 @@ autoreboot true
 globaldriver amdgpu
 custompanel sazmin123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc
+loc 7b3846 SazM-0001
+loc b79417 SazM-0002
+loc 293953 SazM-0003
+loc 294dee SazM-0004
+loc 275084 SazM-0005
+loc b7315c SazM-0006
+loc b738e8 SazM-0007
+loc 7b3a24 SazM-0008
+loc 284f5d SazM-0009
+loc 7b3a22 SazM-0010
+loc 7b3899 SazM-0011
+loc 7b3a92 SazM-0012
+loc 7b3a82 SazM-0014
+
