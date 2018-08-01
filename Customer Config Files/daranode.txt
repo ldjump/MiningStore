@@ -13,14 +13,4 @@ globalfan 100
 globalpowertune 150
 poolemail support@miningstore.com
 custompanel bbbf18mining
-loc c46b7c dar-0006
-loc 242e06 dar-0001
-loc c46b3a dar-0002
-loc 242f95 dar-0007
-loc c46b9f dar-0008
-loc c39ba9 dar-0003
-loc c39fc9 dar-0004
-loc c46aaa dar-0005
-loc c39e7a dar-0009
-loc c39f97 dar-0010
 loc c399fb dar-N001
