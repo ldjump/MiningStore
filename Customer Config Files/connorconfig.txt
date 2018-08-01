@@ -16,6 +16,6 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel connor123456
-loc 6e6d02 connor01
-loc 6e6d78 connor02
-loc c39bc2 connor03
+loc 6e6d02 con-0001
+loc 6e6d78 con-0002
+loc c39bc2 con-0003
