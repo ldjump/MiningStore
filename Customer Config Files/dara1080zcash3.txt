@@ -16,16 +16,16 @@ globalfan 100
 autoreboot 5
 globaldriver amdgpu
 custompanel bbbf18mining
-loc c46b7c dara01
-loc 242e06 d10801
-loc c46b3a d10802
-loc 242f95 dara02
-loc c46b9f dara03
-loc c39ba9 d10803
-loc c39fc9 d10804
-loc c46aaa d10805
-loc c39e7a dara04
-loc c39f97 dara05
+loc c46b7c dar-0006
+loc 242e06 dar-0001
+loc c46b3a dar-0002
+loc 242f95 dar-0007
+loc c46b9f dar-0008
+loc c39ba9 dar-0003
+loc c39fc9 dar-0004
+loc c46aaa dar-0005
+loc c39e7a dar-0009
+loc c39f97 dar-0010
 
 
 
