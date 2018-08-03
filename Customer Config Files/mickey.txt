@@ -9,8 +9,8 @@ proxywallet 0x5D657e1382513ac84e3C6D7da7aE29479712F56e
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001 
 poolemail support@miningstore.com
-#globalcore 
-globalmem 1970
+globalcore 1180
+globalmem 1960
 globalfan 90
 #globalpowertune 12
 autoreboot 9
