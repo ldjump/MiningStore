@@ -1,7 +1,7 @@
 #globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
-globalminer ccminer
+globalminer avermore
 maxgputemp 97
 stratumproxy enabled
 proxywallet RQoPcM117kvrDpkgyhDKKfaQMd3Zdy7geD
@@ -12,8 +12,7 @@ poolemail support@miningstore.com
 #globalcore 1300
 #globalmem 
 globalfan 90
-autoreboot true
-ccminer=flags -a x16r
+avermore=flags -g 2 -X 256
 globaldriver amdgpu
 custompanel allanb123456
 loc c44eb6 alb-0001
