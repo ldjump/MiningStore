@@ -14,13 +14,13 @@ globalmem 2000
 globalfan 90
 autoreboot true
 globaldriver amdgpu
-custompanel allenb123456
-loc c44eb6 0001
-loc c44b22 0002
-loc c448f5 0003
-loc c44701 0004
-loc c44ae2 0005
-loc c44da1 0006
-loc d951cc 0007
-loc c44a90 0008
-loc 6e668d 0009
+custompanel allanb123456
+loc c44eb6 alb-0001
+loc c44b22 alb-0002
+loc c448f5 alb-0003
+loc c44701 alb-0004
+loc c44ae2 alb-0005
+loc c44da1 alb-0006
+loc d951cc alb-0007
+loc c44a90 alb-0008
+loc 6e668d alb-0009
