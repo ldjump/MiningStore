@@ -1,7 +1,7 @@
-globalminer ccminer
 #globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
+globalminer ccminer
 maxgputemp 97
 stratumproxy enabled
 proxywallet RQoPcM117kvrDpkgyhDKKfaQMd3Zdy7geD
