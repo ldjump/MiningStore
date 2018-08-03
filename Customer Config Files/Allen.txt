@@ -14,7 +14,7 @@ globalmem 2000
 globalfan 90
 autoreboot true
 globaldriver amdgpu
-custompanel al2018123456
+custompanel allenb123456
 loc c44eb6 0001
 loc c44b22 0002
 loc c448f5 0003
