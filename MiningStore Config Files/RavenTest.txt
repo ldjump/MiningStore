@@ -1,0 +1,19 @@
+#globalminer zcash-miner
+#globalminer claymore
+#globalminer ethminer
+#globalminer sgminer-gm
+globalminer ccminer
+maxgputemp 97
+stratumproxy enabled
+proxywallet RC4UZyyh5QSC2ku3HB3VhRxsr3THRyDaJc
+proxypool1 us.ravenminer.com:4567
+proxypool2 us.ravenminer.com:5678
+poolemail support@miningstore.com
+#globalcore 
+#globalmem 
+globalfan 90
+#globalpowertune 3
+autoreboot true
+ccminer=flags -a x16r
+globaldriver amdgpu
+custompanel mstest123456
