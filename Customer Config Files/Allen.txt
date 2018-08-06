@@ -2,7 +2,7 @@
 #globalminer ethminer
 #globalminer sgminer-gm
 globalminer avermore
-maxgputemp 97
+maxgputemp 85
 stratumproxy enabled
 proxywallet RQoPcM117kvrDpkgyhDKKfaQMd3Zdy7geD
 #proxywallet 0xca38f6F9a7D051820c1024D295c016628f26659a
