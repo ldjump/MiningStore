@@ -16,4 +16,4 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel matths123456
-loc 6e66d7 mat-0001
+loc 6e66d7 matth001
