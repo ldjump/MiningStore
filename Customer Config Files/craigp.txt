@@ -17,4 +17,4 @@ autoreboot true
 globaldriver amdgpu
 custompanel craigp123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc 6e6708 cra-0001
+loc 6e6708 crgp001
