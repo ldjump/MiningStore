@@ -15,18 +15,18 @@ autoreboot true
 globaldriver amdgpu
 custompanel sazmin123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc 7b3846 Saz-0001
-loc b79417 Saz-0002
-loc 293953 Saz-0003
-loc 294dee Saz-0004
-loc 275084 Saz-0005
-loc b7315c Saz-0006
-loc b738e8 Saz-0007
-loc 7b3a24 Saz-0008
-loc 284f5d Saz-0009
-loc 7b3a22 Saz-0010
-loc 7b3899 Saz-0011
-loc 7b3a92 Saz-0012
-loc 7b39e8 Saz-0013
-loc 7b3a82 Saz-0014
-loc 7b385d Saz-0015
+loc 7b3846 SazM001
+loc b79417 SazM002
+loc 293953 SazM003
+loc 294dee SazM004
+loc 275084 SazM005
+loc b7315c SazM006
+loc b738e8 SazM007
+loc 7b3a24 SazM008
+loc 284f5d SazM009
+loc 7b3a22 SazM010
+loc 7b3899 SazM011
+loc 7b3a92 SazM012
+loc 7b39e8 SazM013
+loc 7b3a82 SazM014
+loc 7b385d SazM015
