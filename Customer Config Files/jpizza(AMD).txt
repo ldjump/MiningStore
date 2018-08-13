@@ -16,6 +16,6 @@ globalfan 95
 autoreboot 9
 globaldriver amdgpu
 custompanel jpizza123456
-loc c39fb9 jpi-0001
-loc 6e6cfc jpi-0002
+loc c39fb9 johnp001
+loc 6e6cfc johnp002
 claymore=flags -gser 2 -mode 1 -lidag 2
