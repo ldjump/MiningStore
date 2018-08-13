@@ -13,4 +13,4 @@ globalfan 100
 globalpowertune 150
 poolemail support@miningstore.com
 custompanel bbbf18mining
-loc c399fb dar-N001
+loc c399fb daran001
