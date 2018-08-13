@@ -15,12 +15,12 @@ globalfan 90
 avermore=flags -g 2 -X 256
 globaldriver amdgpu
 custompanel allanb123456
-loc c44eb6 alab001
-loc c44b22 alab002
-loc c448f5 alab003
-loc c44701 alab004
-loc c44ae2 alab005
-loc c44da1 alab006
-loc d951cc alab007
-loc c44a90 alab008
-loc 6e668d alab009
+loc c44eb6 allab001
+loc c44b22 allab002
+loc c448f5 allab003
+loc c44701 allab004
+loc c44ae2 allab005
+loc c44da1 allab006
+loc d951cc allab007
+loc c44a90 allab008
+loc 6e668d allab009
