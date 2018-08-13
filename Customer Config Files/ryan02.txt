@@ -16,7 +16,7 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel ryan18mining
-loc c3a037 rys-0001
+loc c3a037 ryans001
 
 
                                                                                                                                                                                               
