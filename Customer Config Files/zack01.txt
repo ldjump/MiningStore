@@ -17,7 +17,7 @@ autoreboot true
 globaldriver amdgpu
 custompanel zack18123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc c46b17 zac-0001
-loc c39f47 zac-0002
-loc c39e42 zac-0003
+loc c46b17 zachf001
+loc c39f47 zachf002
+loc c39e42 zachf003
 
