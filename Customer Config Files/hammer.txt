@@ -16,6 +16,6 @@ globalfan 95
 #autoreboot true
 globaldriver amdgpu
 custompanel hammer123456
-loc c399f9 sel-0001
+loc c399f9 selky001
 claymore flags -gser 2 -mode 1 -lidag 2
                       
