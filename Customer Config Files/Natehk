@@ -17,4 +17,4 @@ autoreboot true
 globaldriver amdgpu
 custompanel natehk123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc c448fd nat-0001
+loc c448fd nateh001
