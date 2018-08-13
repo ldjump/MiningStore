@@ -17,5 +17,5 @@ autoreboot true
 globaldriver amdgpu
 custompanel LiamMc123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc 728b31 lim-0001
-loc c39b8e lim-0002
+loc 728b31 liamm001
+loc c39b8e liamm002
