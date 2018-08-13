@@ -17,4 +17,4 @@ autoreboot 9
 globaldriver amdgpu
 custompanel Mickey123456
 claymore=flags -gser 2 -mode 1 -asm 1 -lidag 2 -wd 1 -r 20
-loc c39f36 mic-0001
+loc c39f36 mickf001
