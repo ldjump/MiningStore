@@ -9,7 +9,7 @@ proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001
 poolemail support@miningstore.com
 #globalcore 1300
-globalmem 2050
+#globalmem 2050
 globalfan 90
 autoreboot true
 globaldriver amdgpu
