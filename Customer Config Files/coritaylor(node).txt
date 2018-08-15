@@ -1,0 +1,3 @@
+NODE SETUP
+
+/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x2E78286dc37A815E15E760beA137a219F81D2F8a.Corinode/corritaylor@gmail.com -epsw x -di 67 -lidag 2 -mport 3336  -mpsw cori2018
