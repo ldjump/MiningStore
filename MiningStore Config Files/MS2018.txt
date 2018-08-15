@@ -15,4 +15,12 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel ms2018123456
-
+loc c46b16 RFS-001
+loc c39026 RFS-002
+loc c39054 RFS-003
+loc c39ee8 RFS-004
+loc c39e89 RFS-005
+loc c80306 RFS-006
+loc c3a012 RFS-007
+loc c39ec0 RFS-008
+loc c39d9c RFS-009
