@@ -1,0 +1,3 @@
+NODE SETUP
+
+/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0xA484fFA54F5F5F3D7474C724AF5658E9DE90e8D3.erinnode/erin@miningstore.com -epsw x -di 45 -lidag 2 -mport 3335  -mpsw erin2018
