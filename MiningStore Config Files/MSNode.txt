@@ -15,3 +15,5 @@ autoreboot true
 globaldriver amdgpu
 claymore=flags -gser 2 -mode 1 -lidag 2 -di 01
 custompanel msnode123456
+loc 71de27 NODE001
+loc
