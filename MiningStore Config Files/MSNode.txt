@@ -1,9 +1,9 @@
 #NODE TERMINALS
-/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN002/sam@miningstore.com -epsw x -di 23  -lidag 2 -mport 3334  -mpsw mine2018
+#/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN002/sam@miningstore.com -epsw x -di 23  -lidag 2 -mport 3334  -mpsw mine2018
 
-/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN003/sam@miningstore.com -epsw x -di 45 -lidag 2 -mport 3335  -mpsw mine2018
+#/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN003/sam@miningstore.com -epsw x -di 45 -lidag 2 -mport 3335  -mpsw mine2018
 
-/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN004/sam@miningstore.com -epsw x -di 67 -lidag 2 -mport 3336 -mpsw mine2018
+#/opt/miners/claymore/claymore -colors 1 -mode 1 -epool eth-us-east1.nanopool.org:9999 -ewal 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B.MinSN004/sam@miningstore.com -epsw x -di 67 -lidag 2 -mport 3336 -mpsw mine2018
 
 
 #OG TERMINAL
