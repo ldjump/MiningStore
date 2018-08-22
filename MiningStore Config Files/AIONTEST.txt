@@ -10,5 +10,5 @@ globalfan 90
 #globalpowertune 3
 autoreboot true
 globaldriver amdgpu
-ewbf-equihash=flags --algo aion --pers AION0PoW
+ewbf-equihash=flags --algo aion
 custompanel mstest123456
