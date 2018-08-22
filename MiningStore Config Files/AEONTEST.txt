@@ -1,14 +1,14 @@
-globalminer xmr-stak
+globalminer ewbf-equihash
 maxgputemp 97
 stratumproxy enabled
 proxywallet 
-proxypool1 pool-usa.ethosdistro.com:5001
-proxypool2 pool-eu.ethosdistro.com:5001
+proxypool1 aion-us.luxor.tech:3366
+proxypool2 aion-eu.luxor.tech:3366
 #globalcore 
 #globalmem 
 globalfan 90
 #globalpowertune 3
 autoreboot true
 globaldriver amdgpu
-xmr-stak=flags --currency aeon7
+ewbf-equihash=flags --algo aion
 custompanel mstest123456
