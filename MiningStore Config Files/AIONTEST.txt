@@ -1,7 +1,7 @@
 globalminer ewbf-equihash
 maxgputemp 97
 stratumproxy enabled
-proxywallet 
+proxywallet 0x62460c1a8638156a7b31ac7d85fb55a7654e8508
 proxypool1 aion-us.luxor.tech:3366
 proxypool2 aion-eu.luxor.tech:3366
 #globalcore 
