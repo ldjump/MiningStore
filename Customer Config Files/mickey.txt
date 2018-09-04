@@ -4,17 +4,15 @@ globalminer claymore
 #globalminer ethminer
 #globalminer sgminer-gm
 maxgputemp 97
-stratumproxy enabled
+stratumproxy miner
 proxywallet 0x5D657e1382513ac84e3C6D7da7aE29479712F56e
 proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001 
 poolemail support@miningstore.com
 globalcore 1180
-globalmem 1960
+globalmem 1950
 globalfan 90
 #globalpowertune 12
 autoreboot 9
-globaldriver amdgpu
 custompanel Mickey123456
-claymore=flags -gser 2 -mode 1 -asm 1 -lidag 2 -wd 1 -r 20
 loc c39f36 mickf001
