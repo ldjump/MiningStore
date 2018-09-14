@@ -17,3 +17,4 @@ autoreboot true
 ccminer=flags -a x16r
 globaldriver amdgpu
 custompanel mstest123456
+#TEST101
