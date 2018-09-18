@@ -17,4 +17,4 @@ autoreboot 9
 globaldriver amdgpu
 claymore=flags -gser 2 -mode 1 -lidag 2 
 custompanel sally1123456
-loc c46d4e salla001
+loc c46aac salla001
