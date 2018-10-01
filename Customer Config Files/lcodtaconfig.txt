@@ -16,14 +16,14 @@ globalfan 100
 autoreboot 5
 globaldriver amdgpu
 custompanel lcodta123456
-claymore=flags -gser 2 -mode 1 -minspeed 190 -lidag 2
+claymore=flags -gser 2 -mode 1 -lidag 2
 loc d9546e kyles001
 loc c39ec5 kyles002
 loc c78dc9 kyles003
 loc 4561ec kyles004
 loc d95496 kyles005
 loc d9562c kyles006
-loc
+loc 0ce681 kyles007
 loc c46b15 kyles008
 loc 242a19 kyles009
 loc c39f32 kyles010
