@@ -1,13 +1,10 @@
-globalminer ewbf-zcash
-#globalminer zcash-miner
-#globalminer claymore
-#globalminer ethminer
-#globalminer sgminer-gm
+globalminer ewbf-equihash
 maxgputemp 97
 stratumproxy enabled
-proxywallet t1RjawGGVSX6prYZPdyo9EgEggrqfY4ckVC
-proxypool1 zec-us-east1.nanopool.org:6666
-proxypool2 zec-us-west1.nanopool.org:6666
+proxywallet 0xa0087f6afb456a5d69855594606594e6bc5309cd0b8ad233ba147ea7fca5b3f3
+#proxywallet t1RjawGGVSX6prYZPdyo9EgEggrqfY4ckVC
+proxypool1 147.75.96.206:3333
+#proxypool2 zec-us-west1.nanopool.org:6666
 poolemail support@miningstore.com
 #globalcore 1500
 globalmem 5200
@@ -15,6 +12,7 @@ globalfan 100
 #globalpowertune 12
 autoreboot 5
 globaldriver amdgpu
+ewbf-equihash=flags --algo aion
 custompanel bbbf18mining
 loc c46b7c darah006
 loc 242e06 darah001
