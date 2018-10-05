@@ -10,7 +10,7 @@ proxypool1 us.ravenminer.com:4567
 proxypool2 us.ravenminer.com:5678
 poolemail support@miningstore.com
 #globalcore 1300
-globalmem 1950
+globalmem 2000
 globalfan 90
 avermore=flags -g 2 -X 256
 globaldriver amdgpu
