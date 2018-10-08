@@ -1,0 +1,16 @@
+globalminer claymore
+#globalminer ewbf-equihash
+maxgputemp 97
+stratumproxy enabled
+#proxywallet 0xa0b017c28ad66e3a94a2618475b26b30b5fb02bb4e1ca0df1b77c10f1e9e0557
+proxywallet 0x047e0d3152Bb64029055Bb61f39aA114c93a1a33
+#proxypool1 147.75.96.206:3333
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
+#globalcore 1400
+globalmem 4200
+globalfan 90
+#globalpowertune 130
+autoreboot true
+globaldriver amdgpu
+custompanel rusty1eth218
