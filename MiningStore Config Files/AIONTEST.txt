@@ -12,4 +12,4 @@ globalname disabled
 autoreboot true
 globaldriver amdgpu
 ewbf-equihash=flags --algo aion
-custompanel mstest123456
+custompanel msaion123456
