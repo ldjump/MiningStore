@@ -1,0 +1,14 @@
+globalminer claymore-xmr
+maxgputemp 97
+stratumproxy enabled
+proxywallet 41tNg51ifi4834i28sifREDYeCuKcTRztiGjeEbhmKmKHPZvuUnARTW1iMKD2F3kisMoS9oXa9zkZQstfP47Wu4YUpWDdXW
+proxypool1 xmr-us-east1.nanopool.org:14444
+proxypool2 xmr-us-west1.nanopool.org:14444
+#globalcore 
+#globalmem 
+globalfan 90
+#globalpowertune 3
+autoreboot true
+globaldriver amdgpu
+claymore-xmr=flags -pow7 1
+custompanel mstest123456
