@@ -5,9 +5,12 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0xd2D24df1b0b35C5cc00d53415fcE9a3b00637926
-proxypool1 eth-us-east1.nanopool.org:9999
-proxypool2 eth-us-west1.nanopool.org:9999
+proxywallet 0x49E11e96F4A2bbf9124f1a2dd17C0393A02e2c8B
+proxypool1 pool-usa.ethosdistro.com:5001
+proxypool2 pool-eu.ethosdistro.com:5001
+#proxywallet 0xd2D24df1b0b35C5cc00d53415fcE9a3b00637926
+#proxypool1 eth-us-east1.nanopool.org:9999
+#proxypool2 eth-us-west1.nanopool.org:9999
 poolemail support@miningstore.com
 #globalcore 1200
 #globalmem 2000
@@ -15,7 +18,8 @@ globalfan 100
 #globalpowertune 2
 autoreboot 5
 globaldriver amdgpu
-custompanel lcodta123456
+custompanel ms2018123456
+#custompanel lcodta123456
 claymore=flags -gser 2 -mode 1 -lidag 2
 loc d9546e kyles001
 loc c39ec5 kyles002
