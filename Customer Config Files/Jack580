@@ -10,12 +10,10 @@ proxypool1 pool-usa.ethosdistro.com:5001
 proxypool2 pool-eu.ethosdistro.com:5001 
 poolemail support@miningstore.com
 #globalcore 
-#globalmem 2000
-mem c81d23 2100 2200 2050 2200 2350 2350 2050 2100
-mem c39dbd 2300 2300 2300 2300 2300 2300 2300 2150
+globalmem 2000
+mem c81d23 2100 2200 1900 2200 2350 2350 2050 2050
 mem c39b8e 2000 2150 2095 2000 2150 2155 2155 2190
 mem c46a8a 2190 2150 2190 2100 2900 2000 2700 2000
-mem c39c31 2250 2000 2250 2250 2250 2250 2250 2100
 globalfan 90
 #globalpowertune 12
 autoreboot true
