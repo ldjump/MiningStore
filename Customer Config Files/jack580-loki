@@ -1,0 +1,19 @@
+
+globalminer xmr-stak                                                                                                                                                                    
+maxgputemp 97                                                                                                                                                                           
+stratumproxy enabled                                                                                                                                                                    
+proxywallet LDnCJeEtshj1VRLroW3VXADAY1F9WxX94WfVZZdna5CbCyBLYEL4HKB3kS67qPuX9gVMichb5xApiNQ2erm9x4n1LDTmmVR                                                                             
+proxypool1 loki-us.luxor.tech:9999   
+xmr-stak=flags --currency cryptonight_heavy                                                                                                                                        
+poolemail support@miningstore.com                                                                                                                                                       
+#globalcore 
+globalmem 2000
+mem c39b8e 2000 2150 2095 2000 2150 2155 2155 2190
+mem c46a8a 2100 2150 2100 2000 2000 1900 2000 1900
+globalfan 90                                                                                                                                                                            
+custompanel jack18123456                                                                                                                                                                
+loc c81d23 Jack-001                                                                                                                                                                     
+loc c39dbd Jack-002                                                                                                                                                                     
+loc c39b8e Jack-003                                                                                                                                                                     
+loc c46a8a Jack-004                                                                                                                                                                     
+loc c39c31 Jack-005  
