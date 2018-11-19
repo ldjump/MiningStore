@@ -2,7 +2,7 @@
 globalminer xmr-stak                                                                                                                                                                    
 maxgputemp 97                                                                                                                                                                           
 stratumproxy enabled                                                                                                                                                                    
-proxywallet LDnCJeEtshj1VRLroW3VXADAY1F9WxX94WfVZZdna5CbCyBLYEL4HKB3kS67qPuX9gVMichb5xApiNQ2erm9x4n1LDTmmVR                                                                             
+proxywallet L96srtdzKfk2a8HR5m7ZV2CWQa4BBLc4TMYFebwHHgqdFeBxGvRmo6G4NRs1oGkH39AdA1rvQ4fEyXQiYp63KjKLJDMzN2A                                                                       
 proxypool1 loki-us.luxor.tech:9999   
 xmr-stak=flags --currency cryptonight_heavy                                                                                                                                        
 poolemail support@miningstore.com                                                                                                                                                       
