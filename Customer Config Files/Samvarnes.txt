@@ -10,7 +10,7 @@ proxypool2 pool-eu.ethosdistro.com:5001
 poolemail support@miningstore.com
 #globalcore 1500
 globalmem 2085
-mem 2c902a 1850 1850 1850 1850 1850 1850 1850 1850
+mem 2c902a 2000 2000 2000 2000 2000 2000 2000 2000
 globalfan 90
 #globalpowertune 12
 autoreboot true
