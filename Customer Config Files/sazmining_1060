@@ -13,4 +13,4 @@ globalpowertune 80
 autoreboot true
 globaldriver amdgpu
 ewbf-equihash=flags --algo aion
-custompanel custompanel sazmin123456
+custompanel sazmin123456
