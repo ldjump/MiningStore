@@ -1,0 +1,16 @@
+globalminer ewbf-equihash
+maxgputemp 97
+stratumproxy enabled
+#proxywallet 0xa082735c42ec62f78621a8bc7f390e052101dfbf69a142ff348a219760dc7d97
+proxywallet 0xa031949a9a11d739f82385778cd01395839b362d8f19ec060dc188f515d27201
+proxypool1 aion.blockwarepool.com:4444
+#proxypool2 aion-eu.luxor.tech:3366
+globalcore +100
+globalmem +400 
+globalfan 90
+globalname disabled
+globalpowertune 110
+autoreboot true
+globaldriver amdgpu
+ewbf-equihash=flags --algo aion
+custompanel msaion123456
