@@ -15,5 +15,6 @@ globalfan 90
 #globalpowertune 12
 autoreboot true
 globaldriver amdgpu
+ewbf-equihash=flags --algo aion
 custompanel matths123456
 loc 6e66d7 matth001
