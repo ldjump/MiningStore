@@ -10,7 +10,7 @@ proxypool2 us2.ethermine.org:4444
 #globalcore 1400
 #globalmem 4200
 globalfan 90
-#globalpowertune 130
+globalpowertune 80
 autoreboot true
 globaldriver amdgpu
 custompanel rusty1eth218
