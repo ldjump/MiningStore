@@ -1,0 +1,29 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy enabled
+proxywallet 0x3c3B13cD53C28A3109468E0900e683546085E22e
+proxypool1 pool-usa.ethosdistro.com:5001
+globalcore +100
+globalmem +300 
+globalfan 90
+globalname disabled
+globalpowertune 110
+autoreboot true
+globaldriver amdgpu
+ewbf-equihash=flags --algo aion
+custompanel sazmin123456
+loc b79417 SazM-001
+loc 7b3a24 SazM-002
+loc 293953 SazM-003
+loc 7b3846 SazM-004
+loc 294dee SazM-005
+loc 284f5d SazM-006
+loc b7315c SazM-007
+loc d957eb SazM-008
+loc 275084 SazM-009
+loc 7b3a82 SazM-010
+loc 7b39e8 SazM-011
+loc 7b3a92 SazM-012
+loc 7b3899 SazM-013
+loc b738e8 SazM-014
+loc 7b3a22 SazM-015
