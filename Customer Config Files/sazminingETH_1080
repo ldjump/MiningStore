@@ -10,7 +10,7 @@ globalname disabled
 globalpowertune 140
 autoreboot true
 globaldriver amdgpu
-ewbf-equihash=flags --algo aion
+claymore=flags -gser 2 -mode 1 -lidag 2
 custompanel sazmin123456
 loc b79417 SazM-001
 loc 7b3a24 SazM-002
