@@ -1,0 +1,15 @@
+globalminer avermore
+maxgputemp 97
+stratumproxy enabled
+proxywallet 3Fey45PTncmjV1EFwmsysarVL8vGPog887
+proxypool1 stratum+tcp://x16r.usa.nicehash.com:3366
+#proxypool2 stratum+tcp://x16r.eu.nicehash.com:3366
+poolemail support@miningstore.com
+#globalcore 
+globalmem +250
+globalfan 90
+globalpowertune 120
+autoreboot true
+ccminer=flags -a x16r  -p c-RVN
+globaldriver amdgpu
+custompanel mstest123456
