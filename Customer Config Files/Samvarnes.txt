@@ -16,7 +16,7 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel varnes123456
-loc 2c8e3f SamV-001
+loc f0ee1d SamV-001
 loc 2c909c SamV-002
 loc c44ae5 SamV-003
 loc c44a93 SamV-004
