@@ -15,12 +15,20 @@ globalfan 90
 autoreboot true
 globaldriver amdgpu
 custompanel murali123456
-loc 71de27 MuraR001
-loc 6e654b MuraR002
-loc 71de53 MuraR003
-loc 6e656d MuraR004
-loc 6e67df MuraR005
-loc 71de5d MuraR006
-loc 6d48b7 MuraR007
-loc 6e656b MuraR008
-loc 71deb1 MuraR009
+loc 6e692a  murali-002
+loc 70e492  murali-077
+loc 6d48f7  murali-031
+loc 70be4a  murali-073
+loc 6d48db  murali-054
+loc 70e17d  murali-016
+loc 71de4f  murali-050
+loc 70e694  murali-003
+loc 6d50b1  murali-030
+loc 70e177  murali-039
+loc 70e255  murali-018
+loc 71dd2d  murali-013
+loc 6e6c70  murali-075
+loc 6e6c7e  murali-035
+loc 71e25f  murali-053
+loc 70e3bc  murali-069
+
