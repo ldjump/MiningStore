@@ -1,0 +1,25 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy enabled
+proxywallet 3Fey45PTncmjV1EFwmsysarVL8vGPog887
+proxypool1 stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu.nicehash.com:3353
+poolpass1 x
+poolpass2 x
+poolemail support@miningstore.com
+#globalcore 
+globalmem +250
+globalfan 90
+globalpowertune 120
+autoreboot true
+globaldriver amdgpu
+custompanel mstest123456
+#loc 
+#loc
+loc c448f5 AllaB-003
+loc C44701 AllaB-004
+loc c44ae2 AllaB-005
+loc c44da1 AllaB-006
+loc d951cc AllaB-007
+loc c44a90 AllaB-008
+loc 6e668d AllaB-009
