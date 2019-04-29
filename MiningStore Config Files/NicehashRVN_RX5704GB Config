@@ -13,3 +13,12 @@ autoreboot true
 ccminer=flags -a x16r  -p c-RVN
 globaldriver amdgpu
 custompanel mstest123456
+#loc 
+#loc
+loc c448f5 AllaB-003
+loc C44701 AllaB-004
+loc c44ae2 AllaB-005
+loc c44da1 AllaB-006
+loc d951cc AllaB-007
+loc c44a90 AllaB-008
+loc 6e668d AllaB-009
