@@ -13,3 +13,8 @@ autoreboot true
 globaldriver amdgpu
 ewbf-equihash=flags --algo aion
 custompanel jack18123456
+loc c46a8a jack-004
+loc c3a026 jack-001	
+loc c39e89 Jack-005		
+loc c39dbd jack-002
+loc 9303d8 jack-003
