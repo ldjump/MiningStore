@@ -19,8 +19,9 @@ autoreboot true
 globaldriver amdgpu
 custompanel jack18123456
 claymore=flags -gser 2 -mode 1 -lidag 2
-loc c81d23 Jack-001
-loc c39dbd Jack-002
-loc 9303d8 Jack-003
-loc c46a8a Jack-004
-loc c39c31 Jack-005
+loc c46a8a jack-004
+loc c3a026 jack-001	
+loc c39e89 Jack-005		
+loc c39dbd jack-002
+loc 9303d8 jack-003
+
