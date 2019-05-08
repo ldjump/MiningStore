@@ -14,7 +14,7 @@ globalmem 2000
 mem c39b8e 2000 2150 2095 2000 2150 2155 2155 2190
 mem c46a8a 2100 2150 2100 2000 2000 1900 2000 1900
 globalfan 90
-#globalpowertune 12
+globalpowertune 120
 autoreboot true
 globaldriver amdgpu
 custompanel jack18123456
