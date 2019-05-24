@@ -5,7 +5,7 @@ globalminer claymore
 #globalminer sgminer-gm
 maxgputemp 97
 stratumproxy enabled
-proxywallet 0xb20f025e11AA0d0f9EF19893b8cb9Fa3e70568Dc
+proxywallet 0x9d496206937bea4f4c6ead872b9a11d85ef96ecb
 poolemail support@miningstore.com
 proxypool1 eth-us-east1.nanopool.org:9999
 proxypool2 eth-us-west1.nanopool.org:9999
