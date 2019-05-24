@@ -17,6 +17,7 @@ mem 6e668d 1500 1500 1500 1500 1500 1500 1500 1500
 globalfan 90
 claymore=flags -gser 2 -mode 1 -lidag 2
 #avermore=flags -g 2 -X 256
+globalpowertune 120
 globaldriver amdgpu
 custompanel allanb123456
 loc c44eb6 allab001
