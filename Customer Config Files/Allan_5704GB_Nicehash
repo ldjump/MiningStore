@@ -13,7 +13,7 @@ globalfan 90
 globalpowertune 120
 autoreboot true
 globaldriver amdgpu
-custompanel mstest123456
+custompanel allanb123456
 #loc 
 #loc
 loc c448f5 AllaB-003
