@@ -7,6 +7,7 @@ proxywallet 0x82CE8e15F431eae41e8f9e10425c6980Cb4D78B7
 #proxypool1 147.75.96.206:3333
 proxypool1 us1.ethermine.org:4444
 proxypool2 us2.ethermine.org:4444
+poolemail alerts@miningstore.com
 #globalcore 1400
 #globalmem 4200
 globalfan 90
