@@ -7,6 +7,7 @@ proxywallet 0xa0b017c28ad66e3a94a2618475b26b30b5fb02bb4e1ca0df1b77c10f1e9e0557
 proxypool1 aion.blockwarepool.com:3333
 #proxypool1 us1.ethermine.org:4444
 #proxypool2 us2.ethermine.org:4444
+poolemail alerts@miningstore.com
 #globalcore 1400
 globalmem 4200
 globalfan 90
