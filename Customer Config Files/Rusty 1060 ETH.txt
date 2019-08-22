@@ -37,7 +37,7 @@ loc c81dd3  Rusty-021
 loc 4b2bf2  Rusty-022
 #loc c44abd  Rusty-023
 loc 242e25  Rusty-024
-#loc 6e669d  Rusty-025
+loc 6e669d  Rusty-025
 loc 6e6a90  Rusty-026
 loc 6e6626  Rusty-027
 loc c79951  Rusty-028
@@ -45,7 +45,7 @@ loc c46b87  Rusty-029
 loc c39eec  Rusty-030
 loc c39f2e  Rusty-031
 #loc c3a084  Rusty-032
-#loc c81e13  Rusty-033
+loc c81e13  Rusty-033
 loc 4c7144  Rusty-034
 loc 242f63  Rusty-035
 loc 6e6490  Rusty-036
