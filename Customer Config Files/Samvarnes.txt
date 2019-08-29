@@ -12,7 +12,7 @@ poolemail alerts@miningstore.com
 globalmem 2085
 mem 2c902a 2000 2000 2000 2000 2000 2000 2000 2000
 globalfan 90
-#globalpowertune 12
+globalpowertune 120
 autoreboot true
 globaldriver amdgpu
 custompanel varnes123456
