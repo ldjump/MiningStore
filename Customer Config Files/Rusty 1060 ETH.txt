@@ -27,6 +27,7 @@ loc 6e6681  Rusty-009
 loc c39f9b  Rusty-010
 loc 6e65d3  Rusty-011
 loc 6e6675  Rusty-012
+loc 4a006a  Rusty-013
 loc c39e70  Rusty-014
 loc 4b59cc  Rusty-015
 loc c39fe3  Rusty-016
