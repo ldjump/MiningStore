@@ -1,0 +1,18 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy nicehash
+proxywallet 3HcuhULdKTBUDSjuau1XRXmrEwz7dC2wmS
+proxypool1 stratum+tcp://daggerhashimoto.usa-new.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
+poolpass1 x
+poolpass2 x
+poolemail alerts@miningstore.com
+#globalcore +100
+globalmem +450
+globalfan 95
+globalpowertune 110
+autoreboot true
+globaldriver amdgpu
+#claymore=flags -mode 1 -lidag 2 -di 01
+custompanel mstest123456
+loc 71de27 EricD-001
