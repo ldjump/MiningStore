@@ -1,0 +1,21 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy nicehash
+proxywallet 3AxJSPwQxEFcE2ffqtKL8R6FzLyXqHpkJC
+proxypool1 stratum+tcp://daggerhashimoto.usa-new.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
+poolpass1 x
+poolpass2 x
+poolemail support@miningstore.com
+#globalcore 1400
+mem c39e42 1950 2000 2000 2000 2000 2000 2000 2000
+mem c39f47 1950 1950 1950 1950 1950 1950 1950 1950
+globalfan 95
+globalpowertune 110
+autoreboot true
+globaldriver amdgpu
+custompanel zack18123456
+#claymore=flags -gser 2 -mode 1 -lidag 2
+loc c39e42 zachf001
+loc c39f47 zachf002
+loc c46b17 zachf003
