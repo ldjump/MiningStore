@@ -8,7 +8,7 @@ poolpass1 x
 poolpass2 x
 poolemail support@miningstore.com
 globalcore 1050
-mem c39e42 1950 2000 2000 2000 2000 2000 2000 2000
+mem c39e42 1950 1950 1950 1950 1950 1950 1950 1950
 mem c39f47 1950 1950 1950 1950 1950 1950 1950 1950
 globalfan 95
 globalpowertune 110
