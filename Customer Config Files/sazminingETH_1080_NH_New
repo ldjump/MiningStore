@@ -1,16 +1,19 @@
 globalminer claymore
 maxgputemp 97
-stratumproxy enabled
-proxywallet 0x3c3B13cD53C28A3109468E0900e683546085E22e
-proxypool1 pool-usa.ethosdistro.com:5001
+stratumproxy nicehash
+proxywallet 39bVkyTP9dchop5M79WmGpCsZtHcC2WEXh
+proxypool1 stratum+tcp://daggerhashimoto.usa-new.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
+poolpass1 x
+poolpass2 x
 globalcore +100 
 globalmem +800 
 globalfan 90
-globalname disabled
+#globalname disabled
 globalpowertune 140
 autoreboot true
 globaldriver amdgpu
-claymore=flags -gser 2 -mode 1 -lidag 2
+#claymore=flags -gser 2 -mode 1 -lidag 2
 custompanel sazmin123456
 loc b79417 SazM-001
 loc 7b3a24 SazM-002
