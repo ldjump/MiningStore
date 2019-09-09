@@ -1,7 +1,7 @@
 globalminer claymore
 maxgputemp 97
 stratumproxy nicehash
-proxywallet 3GDgj81kgcj5qH39yRKaQTifor9tVbwTsT
+proxywallet 35PChN6g2RBo7H5f6gYHfgSL4HU69pK35u
 proxypool1 stratum+tcp://daggerhashimoto.usa-new.nicehash.com:3353
 proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
 poolpass1 x
