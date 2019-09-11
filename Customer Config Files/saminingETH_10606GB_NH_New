@@ -9,7 +9,7 @@ poolpass1 x
 poolpass2 x
 #globalcore 
 globalmem +200 
-globalfan 90
+globalfan 95
 globalname disabled
 globalpowertune 80
 autoreboot true
