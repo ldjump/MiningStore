@@ -7,7 +7,6 @@ proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
 poolemail alerts@miningstore.com
 poolpass1 x
 poolpass2 x
-poolemail alerts@miningstore.com
 globalfan 90
 globalmem +500
 globalpowertune 120
