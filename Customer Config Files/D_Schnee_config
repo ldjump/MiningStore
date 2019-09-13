@@ -1,0 +1,18 @@
+globalminer claymore
+#globalminer ewbf-equihash
+maxgputemp 97
+stratumproxy enabled
+#proxywallet 0xa0b017c28ad66e3a94a2618475b26b30b5fb02bb4e1ca0df1b77c10f1e9e0557
+proxywallet 0x40C67640260dBabBC478274D2023f49B99c98288
+poolemail alerts@miningstore.com
+#proxypool1 147.75.96.206:3333
+proxypool1 us1.ethermine.org:4444
+proxypool2 us2.ethermine.org:4444
+#globalcore 1400
+globalmem +200
+globalfan 100
+globalpowertune 80
+autoreboot true
+globaldriver amdgpu
+custompanel Schnee123456
+loc c39ee8  schnee-001
