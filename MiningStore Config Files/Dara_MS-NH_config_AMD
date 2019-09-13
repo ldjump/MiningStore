@@ -9,7 +9,7 @@ proxypool1 stratum+tcp://daggerhashimoto.usa-new.nicehash.com:3353
 proxypool2 stratum+tcp://daggerhashimoto.eu-new.nicehash.com:3353
 globalcore 1100
 globalmem 2100
-globalfan 
+globalfan 95
 pwr c39e7a 3 3 3 3 3 3 3 3
 vlt c39e7a 900 900 900 900 875 875 875 875
 globalpowertune 110
