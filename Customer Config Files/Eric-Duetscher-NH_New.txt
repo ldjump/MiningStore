@@ -14,5 +14,5 @@ globalpowertune 110
 autoreboot true
 globaldriver amdgpu
 #claymore=flags -mode 1 -lidag 2 -di 01
-custompanel mstest123456
+custompanel eduets123456
 loc 71de27 EricD-001
