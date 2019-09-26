@@ -1,0 +1,25 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy nicehash
+proxywallet 35LWF7aJFxMxrsQte1a6eWBsE42pcYrpwJ
+proxypool1 stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu.nicehash.com:3353
+poolpass1 x
+poolpass2 x
+poolemail alerts@miningstore.com
+#globalcore 
+globalmem 2000
+mem c39b8e 2000 2150 2095 2000 2150 2155 2155 2190
+mem c46a8a 2100 2150 2100 2000 2000 1900 2000 1900
+globalfan 90
+globalpowertune 120
+autoreboot true
+globaldriver amdgpu
+custompanel jack18123456
+claymore=flags -gser 2 -mode 1 -lidag 2
+loc c46a8a jack-004
+loc c3a026 jack-001	
+loc c39c31 Jack-005		
+loc c39dbd jack-002
+loc 2247b0 jack-003
+loc 2247b0 jack-001-new
