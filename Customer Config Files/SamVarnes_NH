@@ -1,7 +1,7 @@
 globalminer claymore
 maxgputemp 97
 stratumproxy nicehash
-proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf
+#proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf
 proxypool1 stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
 proxypool2 stratum+tcp://daggerhashimoto.eu.nicehash.com:3353
 poolpass1 x
@@ -25,3 +25,15 @@ loc 2c8fb8 SamV-007
 loc 2c8eb0 SamV-008
 loc 4ce34c SamV-009
 loc 2c900d SamV-010
+
+proxywallet f0ee1d 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-001
+proxywallet 6e64a0 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-002
+proxywallet c44ae5 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-003
+proxywallet c44a93 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-004
+proxywallet 2c8e3e 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-005
+proxywallet 2c902a 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-006
+proxywallet 2c8fb8 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-007
+proxywallet 2c8eb0 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-008
+proxywallet 4ce34c 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-009
+proxywallet 2c900d 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-010
+
