@@ -26,14 +26,13 @@ loc 2c8eb0 SamV-008
 loc 4ce34c SamV-009
 loc 2c900d SamV-010
 
-proxywallet f0ee1d 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-001
-proxywallet 6e64a0 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-002
-proxywallet c44ae5 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-003
-proxywallet c44a93 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-004
-proxywallet 2c8e3e 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-005
-proxywallet 2c902a 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-006
-proxywallet 2c8fb8 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-007
-proxywallet 2c8eb0 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-008
-proxywallet 4ce34c 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-009
-proxywallet 2c900d 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-010
-
+f0ee1d proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-001
+6e64a0 proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-002
+c44ae5 proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-003
+c44a93 proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-004
+2c8e3e proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-005
+2c902a proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-006
+2c8fb8 proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-007
+2c8eb0 proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-008
+4ce34c proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-009
+2c900d proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-010
