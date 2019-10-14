@@ -1,0 +1,27 @@
+globalminer claymore
+maxgputemp 97
+stratumproxy nicehash
+proxywallet 34aT2PFy4SGpfDbs4PrVR8y8oZD8XpogMf.SamV-001
+proxypool1 stratum+tcp://daggerhashimoto.usa.nicehash.com:3353
+proxypool2 stratum+tcp://daggerhashimoto.eu.nicehash.com:3353
+poolpass1 x
+poolpass2 x
+poolemail alerts@miningstore.com
+#globalcore 1500
+globalmem 2085
+mem 2c902a 2000 2000 2000 2000 2000 2000 2000 2000
+globalfan 90
+globalpowertune 120
+autoreboot true
+globaldriver amdgpu
+custompanel varnes123456
+loc f0ee1d SamV-001
+loc 6e64a0 SamV-002
+loc c44ae5 SamV-003
+loc c44a93 SamV-004
+loc 2c8e3e SamV-005
+loc 2c902a SamV-006
+loc 2c8fb8 SamV-007
+loc 2c8eb0 SamV-008
+loc 4ce34c SamV-009
+loc 2c900d SamV-010
